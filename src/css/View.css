@@ -1,0 +1,12 @@
+.views-frame {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    gap: 2rem;
+}
+
+.view-card {
+    width: 20rem;
+}
